@@ -32,3 +32,14 @@ pip install -e ".[feetech,dynamixel]"
 
 # For logging experiments with Weights & Biases
 wandb login
+
+
+# TODO
+- [ ] set up robot
+- [ ] get a camera mount for the
+- [ ] calibrate
+- [ ] setup data collection 
+- [ ] collect data 
+- [ ] Upload to huggingface
+- [ ] setup training environment
+- [ ] Train first model

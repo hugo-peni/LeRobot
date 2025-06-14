@@ -32,7 +32,7 @@ pip install -e ".[feetech,dynamixel]"
 
 # For logging experiments with Weights & Biases
 wandb login
-
+```
 
 # TODO
 - [ ] set up robot
